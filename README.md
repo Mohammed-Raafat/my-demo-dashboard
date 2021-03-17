@@ -2,6 +2,7 @@ my-demo-dashboard
 Link: https://mohammed-raafat.github.io/my-demo-dashboard/#/login
 
 Using: react.js, react-admin and react-admin-firebase
+
 ----------------------------------------------------
 Users login to test (firebase project):
 
@@ -16,4 +17,5 @@ User 2:
 Username: user2@mydashboard.com
 
 Password: 654321
+
 ----------------------------------------------------
